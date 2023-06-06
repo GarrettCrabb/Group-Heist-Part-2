@@ -1,8 +1,7 @@
-#HeistPartTwo
-
+HeistPartTwo
 HeistPartTwo is a command-line application that simulates a heist planning and execution scenario. The program allows users to create a crew of specialized operatives, scout a bank's security systems, assemble a crew, and attempt a heist.
 
-#Features
+Features
 Pre-populated list of robbers: The program starts with a pre-populated list of robbers, each with a name, skill level, and percentage cut.
 
 Add new crew members: Users can add new crew members to the list by selecting their specialty, skill level, and percentage cut.
@@ -15,7 +14,7 @@ Heist execution: Each crew member performs their skill on the bank. The program 
 
 Heist outcome: If the heist is successful, the program displays a report of each crew member's cut and the total amount stolen. If the heist fails, a failure message is shown.
 
-#Usage
+Usage
 Run the program: Open the program in a C# development environment or compile and run the Program.cs file.
 
 Follow the on-screen instructions: The program will prompt you for various inputs, such as the name of a new crew member, their specialty, skill level, and percentage cut.
@@ -26,13 +25,13 @@ Perform the heist: The crew members will perform their skills on the bank. The p
 
 Review the heist report: If the heist is successful, the program will show each crew member's cut and the remaining cash for yourself. If the heist fails, a failure message will be displayed.
 
-#Dependencies
+Dependencies
 This project does not have any external dependencies. It is built using the C# programming language and relies on the .NET framework.
 
-#Contributing
+Contributing
 Contributions to this project are currently not accepted as it is for educational purposes.
 
-#License
+License
 This project is licensed under the MIT License.
 
 Feel free to update the README file with any additional information or sections that you deem necessary for your project.
